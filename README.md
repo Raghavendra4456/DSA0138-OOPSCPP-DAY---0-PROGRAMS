@@ -33,10 +33,8 @@ DAY - 0
 29.to remove duplicates in an array
 30.vowels and constants counting
 31.triangle star pattern
-32.parameterised constructor
-33.decial to binary & octal
-34.swapping of 2 numbers by using call by reference
-35.default constructor
-36.calculating area & volume of room using class & object
-37.diamond pattern
-38.students marks in 4 subjects
+32.swapping of 2 numbers by using call by reference
+33.default constructor
+34.calculating area & volume of room using class & object
+35.diamond pattern
+36.students marks in 4 subjects
