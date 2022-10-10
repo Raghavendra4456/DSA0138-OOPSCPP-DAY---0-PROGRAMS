@@ -35,3 +35,4 @@ DAY - 0
 31.triangle star pattern
 32.parameterised constructor
 33.decial to binary & octal
+34.swapping of 2 numbers by using call by reference
