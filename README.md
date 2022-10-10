@@ -32,3 +32,4 @@ DAY - 0
 28.to print hollow square and fulle square pattern
 29.to remove duplicates in an array
 30.vowels and constants counting
+31.triangle star pattern
