@@ -34,3 +34,4 @@ DAY - 0
 30.vowels and constants counting
 31.triangle star pattern
 32.parameterised constructor
+33.decial to binary & octal
