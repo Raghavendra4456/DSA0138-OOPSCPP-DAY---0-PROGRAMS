@@ -33,3 +33,4 @@ DAY - 0
 29.to remove duplicates in an array
 30.vowels and constants counting
 31.triangle star pattern
+32.parameterised constructor
