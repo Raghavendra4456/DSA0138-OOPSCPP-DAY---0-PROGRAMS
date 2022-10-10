@@ -36,3 +36,4 @@ DAY - 0
 32.parameterised constructor
 33.decial to binary & octal
 34.swapping of 2 numbers by using call by reference
+35.default constructor
