@@ -39,3 +39,4 @@ DAY - 0
 35.default constructor
 36.calculating area & volume of room using class & object
 37.diamond pattern
+38.students marks in 4 subjects
